@@ -1,7 +1,5 @@
 package video.person;
-/**
- * Created by x on 19.07.2016.
- */
+/** Created */
  public class Person
 {
         public String name;
